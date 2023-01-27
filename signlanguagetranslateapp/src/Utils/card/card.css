@@ -1,0 +1,26 @@
+.box-container {
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  position: absolute;
+  top: 52%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: var(--white);
+  padding: 20px;
+  min-height: 30vh;
+}
+
+.box-container::after{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 25px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: var(--purple);
+
+}

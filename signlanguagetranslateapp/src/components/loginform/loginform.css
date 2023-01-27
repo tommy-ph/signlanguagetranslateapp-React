@@ -1,0 +1,5 @@
+@import "../../Utils/global.css";
+
+.errmsg {
+  color: var(--errorColor);
+}

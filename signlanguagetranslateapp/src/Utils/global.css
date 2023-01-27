@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Montserrat:wght@100&family=Righteous&family=Roboto+Condensed:wght@300&display=swap");
+:root {
+  --yellow: #ffc749;
+  --purple: #8540e0;
+  --gray: #747474;
+  --white: #ffffff;
+  --darkYellow: #c49c3f;
+  --errorColor:rgb(234, 82, 82);
+  --loveFont: "Love Ya Like A Sister";
+  --fontIntroSize: 4rem;
+  --fontSmallIntroSize: 3rem;
+  --logoSize: 2rem;
+}

@@ -1,0 +1,6 @@
+@import "../../Utils/global.css";
+
+.upper-body {
+  background-color: var(--yellow);
+  padding: 100px;
+}

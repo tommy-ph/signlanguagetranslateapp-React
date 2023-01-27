@@ -1,0 +1,20 @@
+@import "../../Utils/global.css";
+.start-upp-container{
+  height: 50vh;
+  background:var(--yellow) ;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.start-upp-container p:nth-of-type(even){
+  font-family: var(--loveFont);
+  font-size: var(--fontSmallIntroSize);
+  color: var(--white);
+}
+
+.start-upp-container p:nth-of-type(odd){
+  font-family: var(--loveFont);
+  font-size: var(--fontIntroSize);
+  color: var(--white);
+}
